@@ -1,0 +1,4 @@
+/* Add here all your CSS customizations */
+.dataTables_paginate .paging_simple_numbers{
+    float: right;
+}
